@@ -1,0 +1,233 @@
+.bg1{
+    background-image: url('images/lo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 680px;
+}
+.logopic{
+    width: 100%;
+}
+.header:hover{
+    background-color: rgb(184, 181, 179);
+    height: 15vh;
+}
+.menubar ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-top: 10px;
+}
+.menubar li{
+    text-decoration: none;
+}
+.menubar a{
+    text-decoration: none;
+    font-family: EMprint-Semibold,Univers Next W23 Bold,Tahoma W01 Bold,Saral W60 Bold,AxisStd-Medium,MHei HK Bold,MHei PRC Bold,Ergo LT W01 Demi,YDGothic_140 Pro,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+    font-weight: 600;
+    color: aliceblue;
+}
+.menubar a:hover{
+    color: black;
+}
+.menu-links{
+    text-align: end;
+    margin-top: 10px;
+}
+.global .fa{
+    font-size: 25px;
+    margin-right: 10px;
+    color: red;
+}
+.global {
+    text-decoration: none;
+    color: aliceblue;
+}
+.search .fa-solid{
+    margin-left: 20px;
+    font-size: 25px;
+    color: red;
+}
+.contant h1{
+    letter-spacing: -.0625rem;
+    line-height: 4.375rem;
+    font-size: 41px;
+    font-weight: 700;
+    color: #a84747;
+    margin-top: 104px;
+}
+.contant p{
+    color: white;
+    top: 0;
+    margin-bottom: 50px;
+}
+.contant .btn1{
+    text-decoration: none;
+    border: 1px solid gold;
+    padding: 15px;
+    background-color: brown;
+    
+}
+.contant a{
+    color: aliceblue;
+    margin-top: 10vh;
+}
+.btn1 .fa{
+    margin-left: 15px;
+    color: aliceblue;
+
+}
+.line{
+    margin-bottom: 50px;
+}
+.contant .btn2{
+    margin-top: 20px;
+    text-decoration: none;
+
+}
+.arrow{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 100px;
+    font-size: 50px;
+}
+.bg2{
+    background-color: #2369bd;
+    text-align: center;
+}
+.text p{
+    font-size: 27px;
+    line-height: 40px;
+    color: white;
+    font-weight: 300;
+}
+.countbox{
+    display: flex;
+}
+.countbox h3{
+    font-size: 20px;
+    margin-right: 10px;
+    margin-top: 28px;
+}
+.countbox p{
+    font-size: 40px;
+    margin-left: 10px;
+    color: aquamarine;
+}
+.countbox h6{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 28px;
+}
+.countbox small{
+    margin-left: 10px;
+    margin-top: 28px;
+}
+.bg3{
+    background-color: #F1F2F2;
+}
+.commitment h3{
+    font-weight: 200;
+    color: black;
+}
+.commitment p{
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 30px;
+}
+.box1-content{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    background-color: aliceblue;
+    border-left: 3px solid red;
+}
+.box1-content .fa{
+    font-size: 25px;
+    color: red;
+}
+.box1-content:hover{
+    border: 1px dotted red;
+}
+.pic h3{
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.logo1{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.prouch{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 200;
+    color: black;
+    
+}
+.prouch:hover{
+    color: red;
+    text-decoration: underline;
+}
+.btn3{
+    text-decoration: none;
+    padding: 8px;
+    background-color: #F1F2F2;
+    color: red;
+}
+.recent h1{
+    text-align: center;
+    margin-top: -50px;
+    font-weight: 300;
+}
+.line1{
+    text-align: center;
+}
+.line1 a{
+    text-decoration: none;
+    color: black;
+    line-height: 30px;
+}
+.line1 a:hover{
+    text-decoration: underline;
+    color: red;
+}
+.line-bottom{
+    border-bottom: 1px solid gray;
+    width: 70%;
+    text-align: center;
+    justify-content: center;
+    margin-left: 70px;
+}
+.mt-3 span{
+    background-color: rgb(150, 150, 127);
+    padding: 2px;
+    margin-right: 5px;
+    color: red;
+    text-align: start;
+}
+.cardimg{
+    width: 100%;
+}
+.bg4{
+    background-color: #F1F2F2;
+}
+.card1 h3{
+    font-weight: 400;
+    margin-top: 10px;
+}
+.card1 ul{
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+.card1 a{
+    text-decoration: none;
+    color: black;
+    line-height: 30px;
+}
+.footer1{
+    width: 100%;
+}
+
+
